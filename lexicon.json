@@ -780,6 +780,17 @@
       "root": "gakyn",
       "etymology": "",
       "notes": ""
+    },
+    {
+      "id": 72,
+      "lemma": "du",
+      "meaning": [
+        "Genitive relation (\"of\", \"from\")"
+      ],
+      "pos": "particle",
+      "root": "N/A",
+      "etymology": "",
+      "notes": "Links two nouns; may mark origin, posession, and association."
     }
   ]
 }
